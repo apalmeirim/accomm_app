@@ -1,0 +1,7 @@
+[
+  {"name": "New York", "country": "USA", "latitude": 40.7128, "longitude": -74.0060},
+  {"name": "Paris", "country": "France", "latitude": 48.8566, "longitude": 2.3522},
+  {"name": "Tokyo", "country": "Japan", "latitude": 35.6762, "longitude": 139.6503},
+  {"name": "Sydney", "country": "Australia", "latitude": -33.8688, "longitude": 151.2093},
+  {"name": "Cape Town", "country": "South Africa", "latitude": -33.9249, "longitude": 18.4241}
+]

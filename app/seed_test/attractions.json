@@ -1,0 +1,7 @@
+[
+  {"name": "Statue of Liberty", "category": "Monument", "latitude": 40.6892, "longitude": -74.0445, "city_name": "New York"},
+  {"name": "Eiffel Tower", "category": "Monument", "latitude": 48.8584, "longitude": 2.2945, "city_name": "Paris"},
+  {"name": "Shibuya Crossing", "category": "Cultural", "latitude": 35.6586, "longitude": 139.7454, "city_name": "Tokyo"},
+  {"name": "Sydney Opera House", "category": "Cultural", "latitude": -33.8568, "longitude": 151.2153, "city_name": "Sydney"},
+  {"name": "Table Mountain", "category": "Natural Wonder", "latitude": -33.9628, "longitude": 18.4098, "city_name": "Cape Town"}
+]

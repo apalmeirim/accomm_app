@@ -1,0 +1,7 @@
+[
+  {"name": "Hotel New York", "price": 200.0, "latitude": 40.7128, "longitude": -74.0060, "city_name": "New York"},
+  {"name": "Parisian Inn", "price": 150.0, "latitude": 48.8566, "longitude": 2.3522, "city_name": "Paris"},
+  {"name": "Tokyo Capsule Hotel", "price": 50.0, "latitude": 35.6762, "longitude": 139.6503, "city_name": "Tokyo"},
+  {"name": "Sydney Beach Resort", "price": 180.0, "latitude": -33.8688, "longitude": 151.2093, "city_name": "Sydney"},
+  {"name": "Cape Town Lodge", "price": 120.0, "latitude": -33.9249, "longitude": 18.4241, "city_name": "Cape Town"}
+]
